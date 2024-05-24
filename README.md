@@ -19,8 +19,11 @@ The data set used in this analysis is the "CarSalesByModelStart.xlsx" file conta
 
 ### Data Cleaning/ Preperation
 In the initial data preparartion phase, we performed the following tasks:
+1. Data loading and inspection
+2. Data cleaning and formating 
 
 ### Exploratory Data Analysis
+
 
 ### Data Analysis
 
