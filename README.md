@@ -42,6 +42,7 @@ Step 2- In pdf file scroll down to see second dashboard.
 {**Note:** I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dahboard, even though I would really like to share it and show it in Cognos.}
 ## 🔗Demo (optional)
 Here’s a preview of the interactive dashboard created with Cognos.
+
 Car Sales Dashboard
 ![Car sales dashboard Screenshot](https://github.com/Skitij-Kumar/Creating-Visualization-using-Ms-excel/blob/main/Car%20sales%20dashboard%20Cognos.png)
 Cars Service Dashboard
