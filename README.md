@@ -32,7 +32,8 @@ As a Data Scientist for SwiftAuto Traders, I analyzed car sales and profit data 
 ### For Excel files
 Step 1- Open main project file folder.
 
-Step 2- Download the excel car sales analysis and dataset folder files and open the downloaded files in excel.
+Step 2- Download the excel car sales analysis and dataset folder files and open the downloaded files in excel (or you can just watch 1 minute video using the given link in Demo section).
+
 
 ### For IBM Cognos dashboard
 Step 1- Double click on the pdf or png file to see dashboards.
