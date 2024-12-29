@@ -51,15 +51,3 @@ Cars Service Dashboard
 
 ## 🤝Contact
 💼 https://www.linkedin.com/in/skitij-kumar/ | 📧 kshitijsingh24k@gmail.com
-## 🛠️How to Run the Project
-### For Excel files
-Step 1- Download the excel car sales analysis and dataset folder files.
-
-Step 2- Open the downloaded files in excel.
-
-### For IBM Cognos dashboard
-Step 1- Double click on the pdf or png file to see dashboards.
-
-Step 2- In pdf file scroll down to see second dashboard.
-
-{**Note:** I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dahboard, even though I would really like to share it and show it in Cognos.}
