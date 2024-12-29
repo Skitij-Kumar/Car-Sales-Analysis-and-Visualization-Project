@@ -30,14 +30,15 @@ As a Data Scientist for SwiftAuto Traders, I analyzed car sales and profit data 
 - The airbag in the Beaufort model failed most frequently.
 ## 🛠️How to Run the Project
 ### For Excel files
-Step 1- Download the excel car sales analysis and dataset folder files.
+Step 1- Open main project file folder.
 
-Step 2- Open the downloaded files in excel.
+Step 2- Download the excel car sales analysis and dataset folder files and open the downloaded files in excel.
 
 ### For IBM Cognos dashboard
 Step 1- Double click on the pdf or png file to see dashboards.
 
 Step 2- In pdf file scroll down to see second dashboard.
+
 
 {**Note:** I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dahboard, even though I would really like to share it and show it in Cognos.}
 ## 🔗Demo (optional)
