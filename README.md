@@ -42,7 +42,9 @@ Step 2- In pdf file scroll down to see second dashboard.
 
 
 {**Note:** 
-- I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dashboard, even though I would really like to share it and show it in Cognos.}
+- I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dashboard, even though I would really like to share it and show it in Cognos.
+- Excel file contains 5 excel worksheets inside it.
+}
 ## 🔗Demo
 Watch Video of Car Sales Analsis wit Excel: (https://drive.google.com/file/d/12MTsZhqvh38RzZvnLFMA0WChfYSacvgQ/view?usp=sharing)
 
