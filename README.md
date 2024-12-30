@@ -41,7 +41,7 @@ Step 1- Double click on the pdf or png file to see dashboards.
 Step 2- In pdf file scroll down to see second dashboard.
 
 
-{**Note:** I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dahboard, even though I would really like to share it and show it in Cognos.}
+{**Note:** - I have used the IBM Cognos free trial version, and it has expired. Unfortunately, I am unable to provide a link of a dahboard, even though I would really like to share it and show it in Cognos.}
 ## 🔗Demo
 Watch Video of Car Sales Analsis wit Excel: (https://drive.google.com/file/d/12MTsZhqvh38RzZvnLFMA0WChfYSacvgQ/view?usp=sharing)
 
