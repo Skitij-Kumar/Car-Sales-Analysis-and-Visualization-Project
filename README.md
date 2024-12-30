@@ -47,9 +47,9 @@ Step 2- In pdf file scroll down to see second dashboard.
 
 **}**
 ## 🔗Demo
-Watch Video of Car Sales Analsis wit Excel: (https://drive.google.com/file/d/12MTsZhqvh38RzZvnLFMA0WChfYSacvgQ/view?usp=sharing)
+- Watch Video of Car Sales Analsis wit Excel: (https://drive.google.com/file/d/12MTsZhqvh38RzZvnLFMA0WChfYSacvgQ/view?usp=sharing)
 
-Here’s a preview of the interactive dashboard created with Cognos:
+- Here’s a preview of the interactive dashboard created with Cognos:
 
 Car Sales Dashboard
 ![Car sales dashboard Screenshot](https://github.com/Skitij-Kumar/Car-Sales-Analysis-and-Visualization-Project/blob/main/Main%20project%20files/Car%20sales%20dashboard%20Cognos%20Image.png)
